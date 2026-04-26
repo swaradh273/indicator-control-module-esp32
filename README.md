@@ -16,7 +16,8 @@ Embedded C based indicator and hazard light control system using ESP32.
 - Breadboard setup
 
 ## Demo Video
-Paste your video link here
+## Demo Video
+[Watch Demo](https://drive.google.com/file/d/13Z2QHYKRey747f6L83t0tkL9jolbEJvu/view?usp=sharing)
 
 ## Code
-indicator_control_module.ino
+[View Code](indicator_control_module.ino)

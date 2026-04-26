@@ -20,4 +20,5 @@ Embedded C based indicator and hazard light control system using ESP32.
 [Watch Demo](https://drive.google.com/file/d/13Z2QHYKRey747f6L83t0tkL9jolbEJvu/view?usp=sharing)
 
 ## Code
-[View Code](indicator_control_module.ino)
+## Code
+👉 [View Indicator Module Code](https://github.com/swaradh273/indicator-control-module-esp32/blob/main/indicator_module.ino)
